@@ -85,7 +85,7 @@ public class Main {
 		printerService.println("(1) - Criar Estudante");
 		printerService.println("(2) - Visualizar dados cadastrados");
 		printerService.println("(3) - Editar dados cadastrados");
-		printerService.println("(4) - ");
+		printerService.println("(4) - Deletar estudante cadastrado");
 		printerService.println("(5) - Sair");
 	}
 	private static void createStudent() {	
